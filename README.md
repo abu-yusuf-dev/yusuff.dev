@@ -3,6 +3,13 @@ This is my first Django Project.Here this is   the home page of my own website t
 for this.
 What i have used::
 
+Django:
+Django is a free and open-source web framework, written in Python, which follows the model-view-template (MVT) architectural pattern.It is maintained by the Django Software Foundation (DSF), an independent organization established as a  non-profit.
+Django's primary goal is to ease the creation of complex, database-driven websites. Django emphasizes reusability and "pluggability" of components, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative create, read, update and delete interface that is generated dynamically through introspection and configured via admin models.
+
+Some well-known sites that use Django include the Public Broadcasting Service,Pinterest,Instagram,Mozilla, The Washington Times, Disqus,Bitbucket, and Nextdoor
+
+
 JINJA:
 
 Jinja2 is one of the most used template engines for Python. It is inspired by Django's templating system but extends it with an expressive language that gives template authors a more powerful set of tools. On top of that it adds sandboxed execution and optional automatic escaping for applications where security is important.
