@@ -1,5 +1,6 @@
 # yusuff.dev
 
+### http://fancyblog.herokuapp.com/
 Here is my very own django blog written by me.
 
 Here i did use: django and boostrap4
